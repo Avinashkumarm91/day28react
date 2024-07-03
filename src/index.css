@@ -1,0 +1,11 @@
+img{
+  height: 40vh !important;
+  width: 100% !important;
+}
+.carousel-control-prev-icon {
+  background-color: rgb(92, 194, 33); 
+}
+
+.carousel-control-next-icon {
+  background-color: rgb(10, 124, 153); 
+}
